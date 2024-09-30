@@ -4,7 +4,7 @@ function generateMessage() {
 const subjects = [
     "This moment",
     "The universe",
-    "Your efforts",
+    "Your effort",
     "Your future",
     "Today"
 ];
